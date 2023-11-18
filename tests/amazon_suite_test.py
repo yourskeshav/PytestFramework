@@ -1,8 +1,6 @@
 import allure
 import pytest
 import time
-
-
 from pageObjects.HomePage import HomePage
 from utilities.BaseClass import BaseClass
 from utilities.Utilities import UtilitiesPage
