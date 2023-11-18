@@ -1,0 +1,226 @@
+2022-06-05 23:52:20,113 :INFO : test_VerifyAmazonHomeSignInPage :Sign in button verified
+2022-06-06 00:00:43,817 :INFO : test_VerifyAmazonHomeSignInPage :Sign in button verified
+2022-06-06 00:01:11,711 :INFO : test_VerifyAmazonHomeSignInPage :Sign in button verified
+2022-06-06 00:18:55,808 :INFO : test_VerifyAmazonHomeSignInPage :Sign in button verified
+2022-06-06 00:29:46,600 :INFO : test_VerifyAmazonHomeSignInPage :Sign in button verified
+2022-06-06 00:29:57,619 :INFO : test_VerifyUserIsAbleToSearchProduct :User has provided values in serach text field
+2022-06-06 00:29:59,541 :INFO : test_VerifyUserIsAbleToSearchProduct :Search Submit button clicked
+2022-06-06 00:32:00,970 :INFO : test_VerifyAmazonHomeSignInPage :Sign in button verified
+2022-06-06 00:32:13,535 :INFO : test_VerifyUserIsAbleToSearchProduct :User has provided values in serach text field
+2022-06-06 00:32:15,295 :INFO : test_VerifyUserIsAbleToSearchProduct :Search Submit button clicked
+2022-06-06 00:36:08,043 :INFO : test_VerifyAmazonHomeSignInPage :Sign in button verified
+2022-06-06 00:36:08,090 :INFO : test_VerifyUserIsAbleToSearchProduct :User has provided values in serach text field
+2022-06-06 00:36:10,273 :INFO : test_VerifyUserIsAbleToSearchProduct :Search Submit button clicked
+2022-06-06 01:01:04,260 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-06 01:01:12,209 :INFO : test_verifyUserIsAbleToSearchProduct :User has provided values in serach text field
+2022-06-06 01:01:14,092 :INFO : test_verifyUserIsAbleToSearchProduct :Search Submit button clicked
+2022-06-06 01:06:12,663 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-06 01:06:20,779 :INFO : test_verifyUserIsAbleToSearchProduct :User has provided values in serach text field
+2022-06-06 01:06:23,298 :INFO : test_verifyUserIsAbleToSearchProduct :Search Submit button clicked
+2022-06-06 01:18:20,649 :INFO : test_verifyUserIsAbleToSearchProduct :User has provided values in serach text field
+2022-06-06 01:18:24,289 :INFO : test_verifyUserIsAbleToSearchProduct :Search Submit button clicked
+2022-06-06 01:26:39,036 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-06 01:26:39,599 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-06 01:27:47,330 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-06 01:27:47,348 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-06 01:53:03,475 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-06 01:53:04,059 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-06 01:53:15,255 :INFO : test_verifyUserIsAbleToSearchProduct :User has provided values in serach text field
+2022-06-06 01:53:19,082 :INFO : test_verifyUserIsAbleToSearchProduct :Search Submit button clicked
+2022-06-06 02:22:38,272 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-06 02:22:38,814 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-06 02:22:54,871 :INFO : test_verifyUserIsAbleToSearchProduct :User has provided values in serach text field
+2022-06-06 02:23:04,328 :INFO : test_verifyUserIsAbleToSearchProduct :Search Submit button clicked
+2022-06-06 02:23:04,781 :INFO : test_verifyUserIsAbleToSearchProduct :User has provided values in serach text field
+2022-06-06 02:23:04,781 :INFO : test_verifyUserIsAbleToSearchProduct :User has provided values in serach text field
+2022-06-06 02:23:12,379 :INFO : test_verifyUserIsAbleToSearchProduct :Search Submit button clicked
+2022-06-06 02:23:12,379 :INFO : test_verifyUserIsAbleToSearchProduct :Search Submit button clicked
+2022-06-06 02:35:16,488 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-06 02:35:16,973 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-06 02:35:29,709 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-06 02:35:29,709 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-06 02:35:30,210 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-06 02:35:30,210 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-06 02:35:40,950 :INFO : test_verifyUserIsAbleToSearchProduct :User has provided values in serach text field
+2022-06-06 02:35:46,981 :INFO : test_verifyUserIsAbleToSearchProduct :Search Submit button clicked
+2022-06-06 02:35:47,518 :INFO : test_verifyUserIsAbleToSearchProduct :User has provided values in serach text field
+2022-06-06 02:35:47,518 :INFO : test_verifyUserIsAbleToSearchProduct :User has provided values in serach text field
+2022-06-06 02:35:52,018 :INFO : test_verifyUserIsAbleToSearchProduct :Search Submit button clicked
+2022-06-06 02:35:52,018 :INFO : test_verifyUserIsAbleToSearchProduct :Search Submit button clicked
+2022-06-06 02:36:02,528 :INFO : test_verifyUserIsAbleToSearchProduct :User has provided values in serach text field
+2022-06-06 02:36:02,528 :INFO : test_verifyUserIsAbleToSearchProduct :User has provided values in serach text field
+2022-06-06 02:36:02,528 :INFO : test_verifyUserIsAbleToSearchProduct :User has provided values in serach text field
+2022-06-06 02:36:06,394 :INFO : test_verifyUserIsAbleToSearchProduct :Search Submit button clicked
+2022-06-06 02:36:06,394 :INFO : test_verifyUserIsAbleToSearchProduct :Search Submit button clicked
+2022-06-06 02:36:06,394 :INFO : test_verifyUserIsAbleToSearchProduct :Search Submit button clicked
+2022-06-06 02:36:06,935 :INFO : test_verifyUserIsAbleToSearchProduct :User has provided values in serach text field
+2022-06-06 02:36:06,935 :INFO : test_verifyUserIsAbleToSearchProduct :User has provided values in serach text field
+2022-06-06 02:36:06,935 :INFO : test_verifyUserIsAbleToSearchProduct :User has provided values in serach text field
+2022-06-06 02:36:06,935 :INFO : test_verifyUserIsAbleToSearchProduct :User has provided values in serach text field
+2022-06-06 02:36:10,715 :INFO : test_verifyUserIsAbleToSearchProduct :Search Submit button clicked
+2022-06-06 02:36:10,715 :INFO : test_verifyUserIsAbleToSearchProduct :Search Submit button clicked
+2022-06-06 02:36:10,715 :INFO : test_verifyUserIsAbleToSearchProduct :Search Submit button clicked
+2022-06-06 02:36:10,715 :INFO : test_verifyUserIsAbleToSearchProduct :Search Submit button clicked
+2022-06-06 02:39:59,482 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-06 02:39:59,779 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-06 02:40:28,088 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-06 02:40:28,704 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-06 02:40:44,779 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-06 02:40:44,779 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-06 02:40:45,065 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-06 02:40:45,065 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-06 03:34:29,024 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-06 03:34:29,613 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-06 03:34:42,536 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-06 03:34:42,536 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-06 03:34:42,885 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-06 03:34:42,885 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-06 03:34:53,866 :INFO : test_verifyUserIsAbleToSearchProduct :User has provided values in serach text field
+2022-06-06 03:34:58,418 :INFO : test_verifyUserIsAbleToSearchProduct :Search Submit button clicked
+2022-06-06 03:35:12,037 :INFO : test_verifyUserIsAbleToSearchProduct :User has provided values in serach text field
+2022-06-06 03:35:12,037 :INFO : test_verifyUserIsAbleToSearchProduct :User has provided values in serach text field
+2022-06-06 03:35:16,269 :INFO : test_verifyUserIsAbleToSearchProduct :Search Submit button clicked
+2022-06-06 03:35:16,269 :INFO : test_verifyUserIsAbleToSearchProduct :Search Submit button clicked
+2022-06-06 03:47:29,430 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-06 03:47:42,504 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-06 03:47:42,504 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-06 03:47:54,864 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-06 03:48:08,350 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-06 03:48:08,350 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-06 03:48:18,597 :INFO : test_verifyUserIsAbleToSearchProduct :User has provided values in serach text field
+2022-06-06 03:48:23,564 :INFO : test_verifyUserIsAbleToSearchProduct :Search Submit button clicked
+2022-06-06 03:48:39,478 :INFO : test_verifyUserIsAbleToSearchProduct :User has provided values in serach text field
+2022-06-06 03:48:39,478 :INFO : test_verifyUserIsAbleToSearchProduct :User has provided values in serach text field
+2022-06-06 03:48:43,846 :INFO : test_verifyUserIsAbleToSearchProduct :Search Submit button clicked
+2022-06-06 03:48:43,846 :INFO : test_verifyUserIsAbleToSearchProduct :Search Submit button clicked
+2022-06-06 03:54:12,530 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-06 03:54:23,108 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-06 03:54:33,359 :INFO : test_verifyUserIsAbleToSearchProduct :User has provided values in serach text field
+2022-06-06 03:54:38,476 :INFO : test_verifyUserIsAbleToSearchProduct :Search Submit button clicked
+2022-06-07 00:43:17,352 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 00:43:30,823 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 00:43:30,823 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 00:43:38,909 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-07 00:43:50,482 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-07 00:43:50,482 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-07 00:43:58,532 :INFO : test_verifyUserIsAbleToSearchProduct :User has provided values in serach text field
+2022-06-07 00:44:02,268 :INFO : test_verifyUserIsAbleToSearchProduct :Search Submit button clicked
+2022-06-07 00:44:13,617 :INFO : test_verifyUserIsAbleToSearchProduct :User has provided values in serach text field
+2022-06-07 00:44:13,617 :INFO : test_verifyUserIsAbleToSearchProduct :User has provided values in serach text field
+2022-06-07 00:44:16,547 :INFO : test_verifyUserIsAbleToSearchProduct :Search Submit button clicked
+2022-06-07 00:44:16,547 :INFO : test_verifyUserIsAbleToSearchProduct :Search Submit button clicked
+2022-06-07 00:50:03,076 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 00:50:14,769 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 00:50:14,769 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 00:50:23,400 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-07 00:50:35,577 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-07 00:50:35,577 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-07 00:50:43,903 :INFO : test_verifyUserIsAbleToSearchProduct :User has provided values in serach text field
+2022-06-07 00:50:47,655 :INFO : test_verifyUserIsAbleToSearchProduct :Search Submit button clicked
+2022-06-07 00:51:00,257 :INFO : test_verifyUserIsAbleToSearchProduct :User has provided values in serach text field
+2022-06-07 00:51:00,257 :INFO : test_verifyUserIsAbleToSearchProduct :User has provided values in serach text field
+2022-06-07 00:51:03,238 :INFO : test_verifyUserIsAbleToSearchProduct :Search Submit button clicked
+2022-06-07 00:51:03,238 :INFO : test_verifyUserIsAbleToSearchProduct :Search Submit button clicked
+2022-06-07 01:09:23,103 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 01:09:35,607 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 01:09:35,607 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 01:09:44,475 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-07 01:09:56,106 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-07 01:09:56,106 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-07 01:10:05,297 :INFO : test_verifyUserIsAbleToSearchProduct :User has provided values in serach text field
+2022-06-07 01:10:09,326 :INFO : test_verifyUserIsAbleToSearchProduct :Search Submit button clicked
+2022-06-07 01:10:23,422 :INFO : test_verifyUserIsAbleToSearchProduct :User has provided values in serach text field
+2022-06-07 01:10:23,422 :INFO : test_verifyUserIsAbleToSearchProduct :User has provided values in serach text field
+2022-06-07 01:10:26,814 :INFO : test_verifyUserIsAbleToSearchProduct :Search Submit button clicked
+2022-06-07 01:10:26,814 :INFO : test_verifyUserIsAbleToSearchProduct :Search Submit button clicked
+2022-06-07 01:20:50,605 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 01:21:03,339 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 01:21:03,339 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 01:24:40,438 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 01:24:52,802 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 01:24:52,802 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 01:26:22,308 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 01:26:34,445 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 01:26:34,445 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 01:28:43,359 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 01:28:55,414 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 01:28:55,414 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 01:30:21,746 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 01:30:33,250 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 01:30:33,250 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 01:34:48,527 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 01:35:00,086 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 01:35:00,086 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 01:37:44,601 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 01:37:56,127 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 01:37:56,127 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 01:39:12,410 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 01:39:24,571 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 01:39:24,571 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 01:41:46,601 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 01:41:58,906 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 01:41:58,906 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 01:43:21,835 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 01:43:34,509 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 01:43:34,509 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 01:48:44,159 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 01:48:56,006 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 01:48:56,006 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 01:49:04,008 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-07 01:49:15,047 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-07 01:49:15,047 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-07 01:49:23,000 :INFO : test_verifyUserIsAbleToSearchProduct :User has provided values in serach text field
+2022-06-07 01:49:27,413 :INFO : test_verifyUserIsAbleToSearchProduct :Search Submit button clicked
+2022-06-07 01:49:39,518 :INFO : test_verifyUserIsAbleToSearchProduct :User has provided values in serach text field
+2022-06-07 01:49:39,518 :INFO : test_verifyUserIsAbleToSearchProduct :User has provided values in serach text field
+2022-06-07 01:49:44,536 :INFO : test_verifyUserIsAbleToSearchProduct :Search Submit button clicked
+2022-06-07 01:49:44,536 :INFO : test_verifyUserIsAbleToSearchProduct :Search Submit button clicked
+2022-06-07 01:52:57,551 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 01:54:43,986 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 01:54:55,277 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 01:54:55,277 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 01:57:12,411 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 01:57:24,079 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 01:57:24,079 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 02:01:42,880 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 02:01:54,852 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 02:01:54,852 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 02:02:21,400 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 02:02:25,554 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 02:25:44,034 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 02:25:48,537 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 02:28:16,860 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 02:28:20,991 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 02:29:02,689 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 02:29:03,087 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-07 02:29:08,110 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-07 02:34:22,745 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-07 02:34:33,753 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-07 02:34:33,753 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-07 02:44:47,854 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 02:44:54,133 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 02:50:41,979 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 02:54:06,926 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 02:54:19,312 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 02:54:19,312 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 02:54:28,804 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-07 02:54:40,967 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-07 02:54:40,967 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-07 02:55:15,949 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-07 02:55:16,260 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 02:55:20,946 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 02:55:22,298 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-07 02:58:47,698 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 02:58:47,837 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-07 02:58:51,031 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 02:59:01,145 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-07 13:21:19,211 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-07 13:21:19,760 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 13:21:24,122 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 13:21:34,544 :INFO : test_verifyReturnAndordersButtonDisplayed :Returns and Orders button verified
+2022-06-07 13:22:38,805 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 13:22:41,420 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 13:26:41,830 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 13:26:45,259 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 13:30:20,572 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified
+2022-06-07 13:30:21,137 :INFO : test_verifyAmazonHomeSignInPage :Sign in button verified

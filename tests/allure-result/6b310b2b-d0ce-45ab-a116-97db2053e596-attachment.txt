@@ -1,0 +1,1 @@
+INFO     test_verifyAmazonHomeSignInPage:amazon_suite_test.py:19 Sign in button verified
