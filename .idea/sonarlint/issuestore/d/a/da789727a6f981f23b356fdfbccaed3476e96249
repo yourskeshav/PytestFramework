@@ -1,0 +1,6 @@
+
+lpython:S100"ORename method "getIndiaURL" to match the regular expression ^[a-z_][a-z0-9_]*$.(ùí≈88•ÇÅ¨ì0
+ypython:S100"VRename method "getUnitedStatesUrl" to match the regular expression ^[a-z_][a-z0-9_]*$.(«Øôî˚ˇˇˇˇ8«ﬁÜ¨ì0
+opython:S117"XRename this parameter "PropertyName" to match the regular expression ^[_a-z][a-z0-9_]*$.(Á”Ë«
+npython:S117"WRename this parameter "SectionName" to match the regular expression ^[_a-z][a-z0-9_]*$.(Á”Ë«
+fpython:S100"ORename method "getPropfile" to match the regular expression ^[a-z_][a-z0-9_]*$.(Á”Ë«

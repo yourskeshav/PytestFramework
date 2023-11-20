@@ -9,8 +9,8 @@ class HomePage(BaseClass):
         self.driver = driver
 
     # Locators
-    signInButton = "//span[text()='Sign in']"
-    returnsAndOrdersButton ="nav-orderss"
+    signInButton = "//span[text()='Hello, sign in']"
+    returnsAndOrdersButton ="nav-orders"
     searchSubmitButton = "nav-search-submit-button"
     searchTextField = "twotabsearchtextbox"
 
@@ -30,21 +30,13 @@ class HomePage(BaseClass):
 
     # Method to verify if sign in submit is displayed
     def verifySignInButtonDisplayed(self):
-        try:
-            self.getSignInButton().is_displayed()
-        finally:
-            if(AssertionError):
-                allure.attach(self.driver.get_screenshot_as_png(), name="HomePage", attachment_type=AttachmentType.PNG)
+        self.getSignInButton().is_displayed()
 
     # Click Sign in page
     def clickSignInPageButton(self):
-        try:
-            self.getSignInButton().click()
-            loginPage = LoginPage(self.driver)
-            return loginPage
-        finally:
-            if (AssertionError):
-                allure.attach(self.driver.get_screenshot_as_png(), name="HomePage", attachment_type=AttachmentType.PNG)
+        self.getSignInButton().click()
+        loginPage = LoginPage(self.driver)
+        return loginPage
 
     # Method to get Returns And Orders button
     def getReturnsAndOrdersButton(self):
@@ -52,11 +44,7 @@ class HomePage(BaseClass):
 
     # Method to verify if Returns And Orders Button is displayed
     def verifyReturnsAndOrderButtonDisplayed(self):
-        try:
-            self.getReturnsAndOrdersButton().is_displayed()
-        finally:
-            if(AssertionError):
-                allure.attach(self.driver.get_screenshot_as_png(), name="HomePage", attachment_type=AttachmentType.PNG)
+         self.getReturnsAndOrdersButton().is_displayed()
 
     # Method to get searchy TextField
     def getSearchTextField(self):

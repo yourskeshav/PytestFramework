@@ -1,0 +1,8 @@
+
+Fpython:S1481&"'Remove the unused local variable "log".(ÙÚ°ï8ÅßõÖ“0
+wpython:S117"YRename this local variable "homePage" to match the regular expression ^[_a-z][a-z0-9_]*$.(ĞÎÑÂ8ÑíÀÖ“0
+wpython:S117"YRename this local variable "homePage" to match the regular expression ^[_a-z][a-z0-9_]*$.(ĞÎÑÂ8îş®“0
+†python:S101"hRename class "Test_LoginPage" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(Õäè‹8ÅßõÖ“0
+}python:S117("ZRename this local variable "loginPage" to match the regular expression ^[_a-z][a-z0-9_]*$.(Š‰Ñ´øÿÿÿÿ8ÅßõÖ“0
+wpython:S117'"YRename this local variable "homePage" to match the regular expression ^[_a-z][a-z0-9_]*$.(ĞÎÑÂ8ÅßõÖ“0
+‹python:S101"mRename class "Test_AmazonHomePage" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(¡Ø•Ú8†äÃ¯“0

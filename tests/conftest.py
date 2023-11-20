@@ -1,10 +1,13 @@
 import os
 from datetime import datetime
 import sys
+from urllib import request
 
 import allure
 import pytest
 import logging
+
+import pytest_html
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 from webdriver_manager.firefox import GeckoDriverManager
@@ -31,7 +34,7 @@ def pytest_addoption(parser):
     )
 
 
-@pytest.fixture(params=["chrome","firefox"],scope="function")   # fixture paramterization we have to use params
+@pytest.fixture(params=["chrome"],scope="function")   # fixture paramterization we have to use params
 def setup(request):
     global driver
     # global driver
@@ -40,14 +43,14 @@ def setup(request):
     # invoke driver using webdriver manager
     if request.param == "chrome":     # fixture paramterization
         s = Service(ChromeDriverManager().install())
-        driver = webdriver.Chrome(service=s)
         chrome_options = webdriver.ChromeOptions()
         chrome_options.add_argument('--no-sandbox')
         chrome_options.add_argument('--disable-extensions')
         chrome_options.add_argument('--disable-gpu')
-        # chrome_options.add_argument('--headless')
+        chrome_options.add_argument('--headless')
         chrome_options.add_argument('--window-size=1920,1080')
         chrome_options.add_argument('--start-maximized')
+        driver = webdriver.Chrome(service=s, options=chrome_options)
 
     # invoke firefox driver using webdriver manager
     if request.param == "firefox":
@@ -71,7 +74,8 @@ def setup(request):
     yield
     driver.quit()
 
-@pytest.mark.hookwrapper
+
+@pytest.mark.hookwrapper  # this piece of code is required to generate html report
 def pytest_runtest_makereport(item):
     """
         Extends the PyTest Plugin to take and embed screenshot in html report, whenever test fails.
@@ -83,12 +87,14 @@ def pytest_runtest_makereport(item):
     extra = getattr(report, 'extra', [])
 
     if report.when == 'call' or report.when == "setup":
-        file_name = report.nodeid.replace("::", "_") + ".png"
-        _capture_screenshot(file_name)
-        if file_name:
-            html = '<div><img src="%s" alt="screenshot" style="width:304px;height:228px;" ' \
-                   'onclick="window.open(this.src)" align="right"/></div>' % file_name
-            extra.append(pytest_html.extras.html(html))
+        xfail = hasattr(report, 'wasxfail')
+        if (report.skipped and xfail) or (report.failed and not xfail):
+            file_name = report.nodeid.replace("::", "_") + ".png"
+            _capture_screenshot(file_name)
+            if file_name:
+                html = '<div><img src="%s" alt="screenshot" style="width:304px;height:228px;" ' \
+                       'onclick="window.open(this.src)" align="right"/></div>' % file_name
+                extra.append(pytest_html.extras.html(html))
         report.extra = extra
 
 def _capture_screenshot(name):

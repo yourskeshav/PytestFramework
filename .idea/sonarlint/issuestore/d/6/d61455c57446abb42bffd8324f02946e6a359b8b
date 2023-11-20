@@ -1,0 +1,115 @@
+
+wpython:S100Ó"ZRename method "findElementByClassName" to match the regular expression ^[a-z_][a-z0-9_]*$.(„„Ü¥ıÿÿÿÿ
+ppython:S100š"SRename method "WaitToChangeUrl" to match the regular expression ^[a-z_][a-z0-9_]*$.(á¨úÿÿÿÿÿ
+rpython:S117Ó"URename this parameter "ClassName" to match the regular expression ^[_a-z][a-z0-9_]*$.(„„Ü¥ıÿÿÿÿ
+|python:S100„"_Rename method "waitForElementToBeInvisible" to match the regular expression ^[a-z_][a-z0-9_]*$.(•¤ß¦øÿÿÿÿ
+ppython:S117Ê"XRename this local variable "Locator" to match the regular expression ^[_a-z][a-z0-9_]*$.(ø€ã
+ppython:S117¸"XRename this local variable "Locator" to match the regular expression ^[_a-z][a-z0-9_]*$.(É¶î
+upython:S117ã"XRename this local variable "Locator" to match the regular expression ^[_a-z][a-z0-9_]*$.(øææ¤üÿÿÿÿ
+wpython:S117˜"_Rename this local variable "locatorByXpath" to match the regular expression ^[_a-z][a-z0-9_]*$.(¹æÊ„
+tpython:S117X"]Rename this local variable "locatorByCss" to match the regular expression ^[_a-z][a-z0-9_]*$.(³µ†‰
+upython:S117Ù"XRename this local variable "Locator" to match the regular expression ^[_a-z][a-z0-9_]*$.(±ç½ãúÿÿÿÿ
+spython:S100…"VRename method "scrollToGetElement" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ô„¸ğùÿÿÿÿ
+upython:S117­"XRename this local variable "Locator" to match the regular expression ^[_a-z][a-z0-9_]*$.(º‡¼Úüÿÿÿÿ
+tpython:S1175"]Rename this local variable "locatorByCss" to match the regular expression ^[_a-z][a-z0-9_]*$.(³µ†‰
+kpython:S117ì"SRename this parameter "tagName" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÌîÃä
+vpython:S117"_Rename this local variable "locatorByClass" to match the regular expression ^[_a-z][a-z0-9_]*$.(Â§†P
+upython:S1171"_Rename this local variable "locatorByClass" to match the regular expression ^[_a-z][a-z0-9_]*$.(Â§†P
+ppython:S117Ô"XRename this local variable "Locator" to match the regular expression ^[_a-z][a-z0-9_]*$.(Äü²ó
+xpython:S117)"\Rename this local variable "locatorById" to match the regular expression ^[_a-z][a-z0-9_]*$.(ğÆáúúÿÿÿÿ
+upython:S117T"_Rename this local variable "locatorByClass" to match the regular expression ^[_a-z][a-z0-9_]*$.(Â§†P
+spython:S117Á"[Rename this local variable "currentURl" to match the regular expression ^[_a-z][a-z0-9_]*$.(ıÜ™Â
+hpython:S100‚"PRename method "scrollToView" to match the regular expression ^[a-z_][a-z0-9_]*$.(©Èİ
+rpython:S117„"URename this parameter "elementID" to match the regular expression ^[_a-z][a-z0-9_]*$.(•¤ß¦øÿÿÿÿ
+npython:S100²"VRename method "findElementsByName" to match the regular expression ^[a-z_][a-z0-9_]*$.(è¡–‰
+qpython:S117B"URename this parameter "elementID" to match the regular expression ^[_a-z][a-z0-9_]*$.(”Ó¬Œüÿÿÿÿ
+lpython:S100¼"ORename method "isDisplayed" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÆÉ‘Îÿÿÿÿÿ
+vpython:S117\"_Rename this local variable "locatorByXpath" to match the regular expression ^[_a-z][a-z0-9_]*$.(¹æÊ„
+qpython:S117İ"TRename this parameter "LinkText" to match the regular expression ^[_a-z][a-z0-9_]*$.(éóåÏúÿÿÿÿ
+upython:S117ò"XRename this local variable "Locator" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÿô™ğşÿÿÿÿ
+qpython:S117Ø"TRename this parameter "LinkText" to match the regular expression ^[_a-z][a-z0-9_]*$.(¼ˆüÿÿÿÿ
+qpython:S117f"URename this parameter "elementID" to match the regular expression ^[_a-z][a-z0-9_]*$.(³¢·¯ÿÿÿÿÿ
+fpython:S100—"NRename method "wait_Until" to match the regular expression ^[a-z_][a-z0-9_]*$.(úÇÈ€
+mpython:S100"VRename method "verifyLinkPresence" to match the regular expression ^[a-z_][a-z0-9_]*$.(â¢Ù
+ppython:S117Å"XRename this local variable "Locator" to match the regular expression ^[_a-z][a-z0-9_]*$.(ø€ã
+hpython:S117²"PRename this parameter "Name" to match the regular expression ^[_a-z][a-z0-9_]*$.(è¡–‰
+vpython:S1179"_Rename this local variable "locatorByXpath" to match the regular expression ^[_a-z][a-z0-9_]*$.(¹æÊ„
+xpython:S117L"\Rename this local variable "locatorById" to match the regular expression ^[_a-z][a-z0-9_]*$.(ğÆáúúÿÿÿÿ
+spython:S117ç"[Rename this parameter "PartialLinkText" to match the regular expression ^[_a-z][a-z0-9_]*$.(¾„úå
+wpython:S117"[Rename this local variable "loggerName" to match the regular expression ^[_a-z][a-z0-9_]*$.(¥Œû™şÿÿÿÿ
+kpython:S117H"URename this parameter "elementID" to match the regular expression ^[_a-z][a-z0-9_]*$.(áÉšt
+ppython:S117Ï"XRename this local variable "Locator" to match the regular expression ^[_a-z][a-z0-9_]*$.(Äü²ó
+upython:S117í"XRename this local variable "Locator" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÿô™ğşÿÿÿÿ
+upython:S117n"^Rename this local variable "locatorByName" to match the regular expression ^[_a-z][a-z0-9_]*$.(Å³¼¹
+ypython:S100ç"aRename method "findElementsByPartialLinkText" to match the regular expression ^[a-z_][a-z0-9_]*$.(¾„úå
+hpython:S100¡"PRename method "waitForReady" to match the regular expression ^[a-z_][a-z0-9_]*$.(÷‚Òù
+vpython:S117Œ"^Rename this local variable "locatorByName" to match the regular expression ^[_a-z][a-z0-9_]*$.(Å³¼¹
+ppython:S117„"SRename this parameter "Locator" to match the regular expression ^[_a-z][a-z0-9_]*$.(•¤ß¦øÿÿÿÿ
+upython:S117P"^Rename this local variable "locatorByName" to match the regular expression ^[_a-z][a-z0-9_]*$.(Å³¼¹
+npython:S100·"VRename method "findElementByXpath" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ö‡¦®
+xpython:S100Î"[Rename method "findElementsByClassName" to match the regular expression ^[a-z_][a-z0-9_]*$.(şÓ¢ úÿÿÿÿ
+hpython:S117¬"PRename this parameter "Name" to match the regular expression ^[_a-z][a-z0-9_]*$.(Œ¾üÆ
+ipython:S117·"QRename this parameter "Xpath" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ö‡¦®
+ipython:S100"MRename method "getLogger" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÿ†öıÿÿÿÿ
+mpython:S100""VRename method "selectOptionByText" to match the regular expression ^[a-z_][a-z0-9_]*$.(¸´…Â
+qpython:S100B"URename method "waitForPageToLoad" to match the regular expression ^[a-z_][a-z0-9_]*$.(”Ó¬Œüÿÿÿÿ
+mpython:S100É"URename method "findElementsByCSS" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÌˆÆí
+ppython:S117ñ"SRename this parameter "tagName" to match the regular expression ^[_a-z][a-z0-9_]*$.(•ÉÁùÿÿÿÿ
+ipython:S100À"QRename method "getCurrentUrl" to match the regular expression ^[a-z_][a-z0-9_]*$.(é°ğÈ
+gpython:S117É"ORename this parameter "CSS" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÌˆÆí
+wpython:S117~"`Rename this local variable "locatorLinkText" to match the regular expression ^[_a-z][a-z0-9_]*$.(†ø»¿
+tpython:S100Ç"WRename method "switchToDiffrentTab" to match the regular expression ^[a-z_][a-z0-9_]*$.(‘•¦ºÿÿÿÿÿ
+lpython:S100ˆ"ORename method "refreshPage" to match the regular expression ^[a-z_][a-z0-9_]*$.(ò×€íüÿÿÿÿ
+opython:S117B"SRename this parameter "Locator" to match the regular expression ^[_a-z][a-z0-9_]*$.(”Ó¬Œüÿÿÿÿ
+ipython:S117H"SRename this parameter "Locator" to match the regular expression ^[_a-z][a-z0-9_]*$.(áÉšt
+vpython:S100Ø"YRename method "findElementByLinkText" to match the regular expression ^[a-z_][a-z0-9_]*$.(¼ˆüÿÿÿÿ
+upython:S117Ş"XRename this local variable "Locator" to match the regular expression ^[_a-z][a-z0-9_]*$.(±ç½ãúÿÿÿÿ
+spython:S100&"\Rename method "presenceOfElementLocated" to match the regular expression ^[a-z_][a-z0-9_]*$.(–öÄ
+ppython:S100ì"XRename method "findElementByTagName" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÌîÃä
+Hpython:S1481"+Remove the unused local variable "element".(ä©ª»ùÿÿÿÿ
+jpython:S117E"SRename this parameter "Locator" to match the regular expression ^[_a-z][a-z0-9_]*$.(ìôß¿
+{python:S100f"_Rename method "waitForElementToBeClickable" to match the regular expression ^[a-z_][a-z0-9_]*$.(³¢·¯ÿÿÿÿÿ
+wpython:S117`"`Rename this local variable "locatorLinkText" to match the regular expression ^[_a-z][a-z0-9_]*$.(†ø»¿
+npython:S117¿"QRename this parameter "Xpath" to match the regular expression ^[_a-z][a-z0-9_]*$.(í”ü–øÿÿÿÿ
+dpython:S100¢"LRename method "getTitle" to match the regular expression ^[a-z_][a-z0-9_]*$.(ü«…¹
+ypython:S117ˆ"\Rename this local variable "locatorById" to match the regular expression ^[_a-z][a-z0-9_]*$.(ğÆáúúÿÿÿÿ
+lpython:S117Ä"ORename this parameter "CSS" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÛàÒÙûÿÿÿÿ
+fpython:S117§"NRename this parameter "Id" to match the regular expression ^[_a-z][a-z0-9_]*$.(Æü€Ê
+kpython:S100§"SRename method "findElementById" to match the regular expression ^[a-z_][a-z0-9_]*$.(Æü€Ê
+qpython:S100‹"TRename method "isElementPresent" to match the regular expression ^[a-z_][a-z0-9_]*$.(ïÍñüşÿÿÿÿ
+npython:S100Ä"QRename method "NavigateToURL" to match the regular expression ^[a-z_][a-z0-9_]*$.(°Í¤“şÿÿÿÿ
+tpython:S100¨"WRename method "scrollToViewElement" to match the regular expression ^[a-z_][a-z0-9_]*$.(±üß ıÿÿÿÿ
+lpython:S117E"URename this parameter "elementID" to match the regular expression ^[_a-z][a-z0-9_]*$.(ìôß¿
+vpython:S117z"_Rename this local variable "locatorByXpath" to match the regular expression ^[_a-z][a-z0-9_]*$.(¹æÊ„
+opython:S117f"SRename this parameter "Locator" to match the regular expression ^[_a-z][a-z0-9_]*$.(³¢·¯ÿÿÿÿÿ
+lpython:S117&"URename this parameter "elementID" to match the regular expression ^[_a-z][a-z0-9_]*$.(–öÄ
+mpython:S100¬"URename method "findElementByName" to match the regular expression ^[a-z_][a-z0-9_]*$.(Œ¾üÆ
+ppython:S117‹"SRename this parameter "Locator" to match the regular expression ^[_a-z][a-z0-9_]*$.(ïÍñüşÿÿÿÿ
+xpython:S117j"\Rename this local variable "locatorById" to match the regular expression ^[_a-z][a-z0-9_]*$.(ğÆáúúÿÿÿÿ
+xpython:S117œ"`Rename this local variable "locatorLinkText" to match the regular expression ^[_a-z][a-z0-9_]*$.(†ø»¿
+kpython:S117ú"SRename this parameter "Locator" to match the regular expression ^[_a-z][a-z0-9_]*$.(öøè†
+wpython:S117="`Rename this local variable "locatorLinkText" to match the regular expression ^[_a-z][a-z0-9_]*$.(†ø»¿
+ppython:S117¨"XRename this local variable "Locator" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÜŸÌ¬
+spython:S100H"]Rename method "waitForElementToBeVisible" to match the regular expression ^[a-z_][a-z0-9_]*$.(áÉšt
+rpython:S117Î"URename this parameter "ClassName" to match the regular expression ^[_a-z][a-z0-9_]*$.(şÓ¢ úÿÿÿÿ
+tpython:S117v"]Rename this local variable "locatorByCss" to match the regular expression ^[_a-z][a-z0-9_]*$.(³µ†‰
+ipython:S100ú"QRename method "hoverAndClick" to match the regular expression ^[a-z_][a-z0-9_]*$.(öøè†
+tpython:S100¿"WRename method "findElementsByXpath" to match the regular expression ^[a-z_][a-z0-9_]*$.(í”ü–øÿÿÿÿ
+jpython:S117&"SRename this parameter "Locator" to match the regular expression ^[_a-z][a-z0-9_]*$.(–öÄ
+ppython:S117À"XRename this local variable "Locator" to match the regular expression ^[_a-z][a-z0-9_]*$.(É¶î
+qpython:S100Ä"TRename method "findElementByCSS" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÛàÒÙûÿÿÿÿ
+wpython:S100İ"ZRename method "findElementsByLinkText" to match the regular expression ^[a-z_][a-z0-9_]*$.(éóåÏúÿÿÿÿ
+ipython:S100E"RRename method "waitForElement" to match the regular expression ^[a-z_][a-z0-9_]*$.(ìôß¿
+upython:S117”"]Rename this local variable "locatorByCss" to match the regular expression ^[_a-z][a-z0-9_]*$.(³µ†‰
+upython:S117r"_Rename this local variable "locatorByClass" to match the regular expression ^[_a-z][a-z0-9_]*$.(Â§†P
+spython:S117â"[Rename this parameter "PartialLinkText" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ü£çï
+xpython:S100â"`Rename method "findElementByPartialLinkText" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ü£çï
+xpython:S117"\Rename this local variable "fileHandler" to match the regular expression ^[_a-z][a-z0-9_]*$.(Î·äºşÿÿÿÿ
+upython:S117è"XRename this local variable "Locator" to match the regular expression ^[_a-z][a-z0-9_]*$.(øææ¤üÿÿÿÿ
+vpython:S100ñ"YRename method "findElementsByTagName" to match the regular expression ^[a-z_][a-z0-9_]*$.(•ÉÁùÿÿÿÿ
+kpython:S117ö"SRename this parameter "Locator" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ëà™
+upython:S117-"^Rename this local variable "locatorByName" to match the regular expression ^[_a-z][a-z0-9_]*$.(Å³¼¹
+kpython:S117ş"SRename this parameter "Locator" to match the regular expression ^[_a-z][a-z0-9_]*$.(ûó¼
+upython:S117³"XRename this local variable "Locator" to match the regular expression ^[_a-z][a-z0-9_]*$.(º‡¼Úüÿÿÿÿ
+gpython:S100ş"ORename method "doubleClick" to match the regular expression ^[a-z_][a-z0-9_]*$.(ûó¼
+–python:S1192 "xDefine a constant instead of duplicating this literal 'Timed out while waiting for invisibility of web-element' 3 times.(è÷‰Õüÿÿÿÿ

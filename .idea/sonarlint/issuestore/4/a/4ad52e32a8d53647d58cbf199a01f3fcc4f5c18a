@@ -1,0 +1,24 @@
+
+opython:S100["YRename method "generate_RandomString" to match the regular expression ^[a-z_][a-z0-9_]*$.(ª¯ÂP
+wpython:S117n"`Rename this local variable "updatedDateTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(¢å×î
+xpython:S117m"\Rename this local variable "currentTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(³““üÿÿÿÿ
+mpython:S100q"VRename method "getCurrentDateTime" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ç¸š£
+|python:S117)"`Rename this local variable "randomGenerator" to match the regular expression ^[_a-z][a-z0-9_]*$.(É¨³ûÿÿÿÿ
+Bpython:S1481"%Remove the unused local variable "i".(¤ÓÔÈÿÿÿÿÿ
+qpython:S117*"ZRename this local variable "randomInt" to match the regular expression ^[_a-z][a-z0-9_]*$.(–§ÙÖ
+npython:S100c"RRename method "getCurrentDate" to match the regular expression ^[a-z_][a-z0-9_]*$.(ùêººşÿÿÿÿ
+lpython:S117k"URename this parameter "daysToAdd" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ûî÷×
+hpython:S100k"QRename method "addDaysToDate" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ûî÷×
+apython:S1192e"IDefine a constant instead of duplicating this literal "%Y-%m-%d" 3 times.(×Ïúö
+opython:S100("SRename method "getRandomNumber" to match the regular expression ^[a-z_][a-z0-9_]*$.(›¢øÿÿÿÿ
+vpython:S117l"ZRename this local variable "todayDate" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹¯‹ùÿÿÿÿ
+opython:S100"XRename method "generateRandomString" to match the regular expression ^[a-z_][a-z0-9_]*$.(§±£ó
+ypython:S100g"bRename method "getCurrentDateWithForwardSlash" to match the regular expression ^[a-z_][a-z0-9_]*$.(–Ïó«
+ppython:S117r"YRename this local variable "dateTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(°ï–ç
+upython:S117s"^Rename this local variable "todayDateTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(·Õ”ß
+opython:S117]"XRename this local variable "randStr" to match the regular expression ^[_a-z][a-z0-9_]*$.(´Š
+cpython:S117["MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(ª¯ÂP
+opython:S100L"XRename method "generateRandomNumber" to match the regular expression ^[a-z_][a-z0-9_]*$.(Œ×ÙÈ
+Bpython:S1481T"%Remove the unused local variable "i".(àë ˆşÿÿÿÿ
+Bpython:S1481^"%Remove the unused local variable "i".(¤ÓÔÈÿÿÿÿÿ
+opython:S117"XRename this local variable "randStr" to match the regular expression ^[_a-z][a-z0-9_]*$.(´Š
