@@ -1,7 +1,6 @@
 import inspect
 import logging
 import pytest
-import allure
 from selenium.webdriver.support.select import Select
 import time
 from selenium.common.exceptions import TimeoutException

@@ -1,8 +1,5 @@
 from pageObjects.LoginPage import LoginPage
 from utilities.BaseClass import BaseClass
-from allure_commons.types import AttachmentType
-import allure
-
 class HomePage(BaseClass):
 
     def __init__(self, driver):

@@ -2,8 +2,6 @@ import os
 from datetime import datetime
 import sys
 from urllib import request
-
-import allure
 import pytest
 import logging
 
